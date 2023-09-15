@@ -5,7 +5,7 @@ language, activity, and the physical state of users; modeling the user’s cogni
 state to identify needs for intervention; and intervening through language-based conversation
 and/or calming physical responses. The project is summarized in the figure below. 
 
-
+![Project Overview](gc_overview.jpg "Grand Challenges Project Framework")
 
 
 [Research Spotlight Video](v=IygiRompItI&ab_channel=CollegeofScienceandEngineering%2CUMN "Research Spotlight: UMN 'Smart hug' technology aims to improve health and well-being")
