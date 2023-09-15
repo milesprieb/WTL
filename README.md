@@ -1,4 +1,10 @@
-# WTL
+# Wearable Technology Lab (WTL) - Grand Challenges Research Project
+
+The long-term objective of the project was to develop pervasive systems capable of monitoring
+language, activity, and the physical state of users; modeling the user’s cognitive and emotional
+state to identify needs for intervention; and intervening through language-based conversation
+and/or calming physical responses. The project is summarized in the figure below. 
+
 
 
 
